@@ -1,20 +1,24 @@
-<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
+# Привет, меня зовут Владимир!
 
-<p>My name is Vladimir and I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="#">resume</a>.</p>
+---
 
-<h2>A Few Quick Facts</h2>
+### 👨‍💻 Обо мне:
+
+<p>Я QA Engineer. Здесь я делюсь материалами для веб- и мобильного тестирования, разработанными на курсах и в личных проектах. Вы можете ознакомиться с моим <a href="#">резюме</a>.</p>
+
+<h2>Несколько кратких фактов</h2>
 
 <img align="right" src="https://media1.tenor.com/m/wJrNiT2m4tgAAAAd/keegan-michael-key-james-franklin.gif" height="150" alt="QA testing gif">
 
 <ul>
-  <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
-  <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
-  <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
-  <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
-  <li>🏎️ Fun facts: I love Formula 1 and pop culture.</li>
+  <li>🎭 В настоящее время я изучаю автоматизацию тестирования с помощью Playstation и Selenium.</li>
+  <li>👩🏻‍💻 В последнее время я работал инженером по контролю качества Android в <a href="https://www.ivi.ru/">Ivi</a>, одном из крупнейших в Восточной Европе сервисов потокового видео (MAU > 50 миллионов).</li>
+  <li>📖 Мне нравится наставлять младших специалистов, и я был соавтором курса, который помог вспомогательному персоналу освоить функции QA.</li>
+  <li>🤝 Будь то командный мозговой штурм или рутинное тестирование, мне нравятся обе стороны работы по обеспечению качества.</li>
+  <li>🏎️ Интересные факты: Я люблю Формулу-1 и поп-культуру.</li>
 </ul>
 
-<h2>Some Tools I Use</h2>
+<h2>Некоторые инструменты, которые я использую</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
@@ -36,19 +40,19 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
 
-<h2>Test Artifacts</h2>
+<h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST и SOAP с помощью Postman</li>
+  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – запросы и скрипты проверки базы данных</li>
+  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – запросы и упражнения для NoSQL</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – ручные тесты и отчеты об ошибках</li>
+  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
   <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/osukhorukova/git">Git</a> – базовые команды управления версиями</li>
 </ul>
 
-<h3 align="center">📫 Let’s connect and collaborate!</h3>
+<h3 align="center">📫 Связь со мной!</h3>
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://t.me/dddgyilb"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
