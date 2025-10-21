@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
 
 <p>My name is Vladimir and I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="#">resume</a>.</p>
