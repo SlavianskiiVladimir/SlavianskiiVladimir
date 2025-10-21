@@ -6,11 +6,7 @@
 
 <h2>A Few Quick Facts</h2>
 
-<div class="tenor-gif-embed" data-postid="16256722755640547743" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-<a href="https://tenor.com/view/celebrating-major-league-baseball-feeling-victorious-george-springer-toronto-blue-jays-gif-16256722755640547743"></a> 
-<a href="https://tenor.com/search/celebrating-gifs"></a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" src="https://media1.tenor.com/m/wJrNiT2m4tgAAAAd/keegan-michael-key-james-franklin.gif" height="150" alt="QA testing gif">
 
 <ul>
   <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
