@@ -42,14 +42,14 @@
 
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – исследовательское и функциональное тестирование</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST и SOAP с помощью Postman</li>
-  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – запросы и скрипты проверки базы данных</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – запросы и упражнения для NoSQL</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – ручные тесты и отчеты об ошибках</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – базовые команды управления версиями</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/web_testing">Webshop Testing</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/api_testing">API Testing</a> – REST и SOAP с помощью Postman</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/sql">MySQL</a> – запросы и скрипты проверки базы данных</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/mongodb">MongoDB</a> – запросы и упражнения для NoSQL</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/mobile_testing">Android App Testing</a> – ручные тесты и отчеты об ошибках</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/SlavianskiiVladimir/git">Git</a> – базовые команды управления версиями</li>
 </ul>
 
 <h3 align="center">📫 Связь со мной!</h3>
